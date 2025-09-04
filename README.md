@@ -1,22 +1,19 @@
-# 👋 Welcome to My Cybersecurity Adventure!
+# Patricia's Cybersecurity Portfolio
 
-Hi there! I’m Patricia, and this is where I document my journey into the world of cybersecurity. From foundational courses to hands-on labs and projects, this repo is my **learning playground**.
+Welcome! This repository documents my journey into cybersecurity — from foundational knowledge to applied labs, projects, and certification preparation. It reflects both the technical skills I’m building and my systematic approach to learning and applying cybersecurity concepts.
 
-## What’s Inside
-- **learning-log/** – My personal notes from courses, books, workshops, and labs. Think of this as my digital notebook. 📝
-- **labs/** – Hands-on exercises where I get my hands dirty in TryHackMe, HackTheBox, and other challenges. 🛠️
-- **projects/** – Applied projects where I turn what I’ve learned into practical skills. 💡
-- **certifications/** – Prep notes for certifications like WiCyS Certified in Cybersecurity℠. 🎓
-- **screenshots/** – Visual proof of my experiments and lab adventures. 📸
+## Repository Structure
+- **learning-log/** – Organized notes from courses, workshops, and labs  
+- **labs/** – Hands-on exercises demonstrating applied skills and problem-solving  
+- **projects/** – Applied projects showcasing practical cybersecurity solutions  
+- **certifications/** – Prep materials and documentation for certifications such as WiCyS Certified in Cybersecurity℠  
+- **screenshots/** – Visual references supporting labs and projects  
 
-## Skills I’m Exploring
-- Networking fundamentals & protocols 🌐
-- Linux & Command Line 💻
-- Threat analysis & security tools 🔍
-- Cloud & application security ☁️
-- Cybersecurity frameworks (NIST, ISO 27001) 🛡️
+## Skills and Areas of Focus
+- Networking fundamentals & protocols  
+- Linux & Command Line  
+- Threat analysis & security tools  
+- Cloud and application security  
+- Cybersecurity frameworks (NIST, ISO 27001)  
 
-## How to Navigate
-Click around! Each folder has its own README explaining what you’ll find. If you’re just curious about my progress, start with **learning-log/** and **labs/**.  
-
-I’m excited to share my journey and maybe inspire others along the way. Let’s dive in!
+This portfolio is designed to demonstrate a **structured, ongoing approach** to developing technical cybersecurity expertise.
