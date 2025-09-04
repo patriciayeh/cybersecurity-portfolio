@@ -1,4 +1,4 @@
-# Projects
+# 💡 Projects
 
 This folder contains applied cybersecurity projects that translate knowledge and lab exercises into practical solutions. Projects demonstrate both technical competency and problem-solving skills.
 
