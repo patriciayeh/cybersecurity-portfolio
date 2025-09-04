@@ -1,4 +1,4 @@
-# Screenshots
+# 📸 Screenshots
 
 This folder contains visual references from labs and projects. Screenshots are included to support documentation and demonstrate applied work.
 
