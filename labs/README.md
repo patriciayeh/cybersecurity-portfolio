@@ -1,15 +1,15 @@
-# Labs
+# 🛠️ Labs
 
-This folder contains step-by-step documentation of hands-on cybersecurity exercises, including TryHackMe, HackTheBox, home labs, or any experimental setups.
+This is where the fun happens! Labs are my hands-on playgrounds where theory meets practice. Here I tackle TryHackMe rooms, HackTheBox challenges, and my own little home experiments.
 
-## How to Document Labs
-Each lab file should include:
-- Lab Name and Platform
-- Date Completed
-- Lab Objectives
-- Steps Taken
-- Tools Used
-- Lessons Learned
-- Screenshots (optional, stored in `../screenshots/`)
+## How I Document Labs
+Each lab file includes:
+- Lab name & platform
+- Date completed
+- Objectives
+- Step-by-step actions
+- Tools used
+- Lessons learned
+- Screenshots (optional, in `../screenshots/`)
 
-> Example: `labs/tryhackme-lab1.md`
+💡 Tip: Don’t be afraid to mess up! That’s where the real learning happens.
