@@ -1,17 +1,19 @@
-# 📝 Learning Log
+# Learning Log
 
-Welcome to my brain dump of cybersecurity knowledge! This is where I take notes, jot down key concepts, and keep track of everything I’m learning from courses, books, workshops, and labs.
+This folder contains my organized learning notes from courses, books, workshops, and lab exercises. It reflects a systematic approach to tracking knowledge and understanding key concepts.
 
-## What You’ll Find Here
-- **courses/** – Notes from online courses (LinkedIn Learning, Coursera, etc.)  
-- **books/** – Key takeaways and summaries from cybersecurity reads  
-- **workshops/** – Notes from WiCyS workshops, webinars, and bootcamps  
-- **labs/** – Mini notes from lab exercises tied to what I’m learning
+## Subfolders
+- **courses/** – Notes from LinkedIn Learning, Coursera, and other professional courses  
+- **books/** – Summaries and insights from cybersecurity literature  
+- **workshops/** – Notes from webinars, bootcamps, and WiCyS events  
+- **labs/** – Brief observations linked to learning exercises  
 
-## How I Use This Folder
-Every file is like a little diary entry:
-- What I studied
-- What tools or skills I used
-- My personal takeaways
+## File Format
+Each file includes:
+- Name and date  
+- Objectives of the course or material  
+- Key concepts and technical details learned  
+- Tools used (if applicable)  
+- Key takeaways and insights  
 
-> Bonus: It’s my way of making sure I actually remember what I learn!
+This approach ensures **knowledge is documented, structured, and easily referenced** as I progress.
