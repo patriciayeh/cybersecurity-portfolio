@@ -1,4 +1,4 @@
-# Certifications
+# 🎓 Certifications
 
 This folder contains documentation and preparation materials for professional cybersecurity certifications, currently focused on WiCyS Certified in Cybersecurity℠.
 
