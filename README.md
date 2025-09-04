@@ -10,10 +10,10 @@ Welcome! This repository documents my journey into cybersecurity — from founda
 - **screenshots/** – Visual references supporting labs and projects  
 
 ## Skills and Areas of Focus
-- Networking fundamentals & protocols  
-- Linux & Command Line  
-- Threat analysis & security tools  
-- Cloud and application security  
-- Cybersecurity frameworks (NIST, ISO 27001)  
+- Networking fundamentals & protocols 🌐
+- Linux & Command Line 💻
+- Threat analysis & security tools 🔍
+- Cloud & application security ☁️
+- Cybersecurity frameworks (NIST, ISO 27001) 🛡️
 
 This portfolio is designed to demonstrate a **structured, ongoing approach** to developing technical cybersecurity expertise.
