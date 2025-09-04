@@ -1,15 +1,15 @@
-# 🛠️ Labs
+# Labs
 
-This is where the fun happens! Labs are my hands-on playgrounds where theory meets practice. Here I tackle TryHackMe rooms, HackTheBox challenges, and my own little home experiments.
+This folder contains hands-on lab exercises, including TryHackMe, HackTheBox, and home lab projects. Labs are documented to demonstrate both technical understanding and the ability to apply concepts in practice.
 
-## How I Document Labs
+## Documentation Guidelines
 Each lab file includes:
-- Lab name & platform
-- Date completed
-- Objectives
-- Step-by-step actions
-- Tools used
-- Lessons learned
-- Screenshots (optional, in `../screenshots/`)
+- Lab name and platform  
+- Date completed  
+- Objectives and scope  
+- Step-by-step actions and methodology  
+- Tools and resources used  
+- Lessons learned and observations  
+- Screenshots (optional, stored in `../screenshots/`)  
 
-💡 Tip: Don’t be afraid to mess up! That’s where the real learning happens.
+The focus is on **applied learning and repeatable documentation** that demonstrates both skill acquisition and process.
