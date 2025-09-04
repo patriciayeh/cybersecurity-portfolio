@@ -9,7 +9,7 @@ Aspiring cybersecurity professional documenting my hands-on labs, projects, and 
 - Network Fundamentals & Defensive Security
 
 ## Portfolio Sections
-- [Learning Notes](./learning) – summaries and takeaways from courses
+- [Learning Log](./learning-log) – summaries and takeaways from courses
 - [TryHackMe Labs](./tryhackme) – hands-on lab writeups
 - [Projects](./projects) – larger portfolio projects with documentation
 
