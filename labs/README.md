@@ -1,4 +1,4 @@
-# Labs
+# 🛠️ Labs
 
 This folder contains hands-on lab exercises, including TryHackMe, HackTheBox, and home lab projects. Labs are documented to demonstrate both technical understanding and the ability to apply concepts in practice.
 
