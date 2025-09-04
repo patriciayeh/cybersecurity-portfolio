@@ -1,11 +1,11 @@
-# 🎓 Certifications
+# Certifications
 
-This folder is my study zone for certifications. Right now, I’m focusing on WiCyS Certified in Cybersecurity℠, but any other badges or certificates I go after will live here too.
+This folder contains documentation and preparation materials for professional cybersecurity certifications, currently focused on WiCyS Certified in Cybersecurity℠.
 
-## What You’ll Find
-- Notes on topics covered
-- Key concepts I need to master
-- Progress tracking for exam readiness
-- Study resources and prep tips
+## Contents
+- Notes on certification topics  
+- Key concepts and frameworks  
+- Study resources and personal observations  
+- Progress tracking toward exam readiness  
 
-It’s like my personal guidebook to staying on top of cybersecurity knowledge and proving my skills officially.
+The goal is to demonstrate **structured preparation and mastery of foundational cybersecurity knowledge**.
