@@ -1,4 +1,4 @@
-# Learning Log
+# 📝 Learning Log
 
 This folder contains my organized learning notes from courses, books, workshops, and lab exercises. It reflects a systematic approach to tracking knowledge and understanding key concepts.
 
