@@ -1,13 +1,13 @@
-# 💡 Projects
+# Projects
 
-This folder is where I apply what I’ve learned to build cool stuff. From mini projects to structured exercises, this is where learning turns into action.
+This folder contains applied cybersecurity projects that translate knowledge and lab exercises into practical solutions. Projects demonstrate both technical competency and problem-solving skills.
 
-## Project Setup
-Each project folder/file has:
-- Project name & objective
-- Tools & technologies used
-- Step-by-step actions
-- Outcomes or results
-- Screenshots if needed
+## Structure
+Each project file/folder includes:
+- Project name and objectives  
+- Tools and technologies applied  
+- Step-by-step methodology  
+- Outcomes, findings, or results  
+- Screenshots or diagrams (optional)  
 
-Think of this as my “show and tell” section — I explain what I did, how I did it, and what I learned along the way.
+Projects are organized to show **practical application of cybersecurity concepts**, suitable for professional review and portfolio demonstration.
