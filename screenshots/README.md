@@ -1,10 +1,10 @@
-# 📸 Screenshots
+# Screenshots
 
-Welcome to the visual side of my portfolio! This folder holds screenshots and images from labs, projects, and experiments.
+This folder contains visual references from labs and projects. Screenshots are included to support documentation and demonstrate applied work.
 
-## How I Use Screenshots
-- Capture important steps or configurations from labs  
-- Include visuals from projects to show results  
-- Reference them in lab/project Markdown files for context
+## Usage
+- Capture critical steps, configurations, or outputs from labs  
+- Include visuals from projects to illustrate methodology or results  
+- Reference these images in lab or project Markdown files  
 
-Think of this as my portfolio scrapbook — pictures really do tell the story!
+Screenshots are intended to provide **contextual clarity** and reinforce technical documentation.
