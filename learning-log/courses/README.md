@@ -9,6 +9,7 @@ This section documents the online courses I've completed, summarizing the **skil
 
 | Course | Skills Gained | Key Topics | Platform |
 |--------|---------------|------------|----------|
+| [Cybersecurity Threat Landscape](./cybersecurity-threat-landscape.md) | Threat detection, mitigation strategies, risk awareness | Malware, phishing, BEC, botnets, DDoS, zero-days, APTs, IoT risks, supply chain attacks, deepfakes | LinkedIn Learning |
 | [Cybersecurity Awareness: Cybersecurity Terminology](./cybersecurity-terminology.md) | Understanding core cybersecurity concepts & terminology | Three pillars (People, Process, Technology), security leadership, red/blue/purple teams, hacker types, privacy & PII protection | LinkedIn Learning |
 
 ---
@@ -22,9 +23,9 @@ This section documents the online courses I've completed, summarizing the **skil
 
 ---
 
-## 📊 Progress & Next Steps
-- ✅ Completed: 1 course  
-- 🚧 In Progress: *Cybersecurity Threat Landscape*  
+## 📊 Progress & Next Steps (Updated September 2025)
+- ✅ Completed: 2 courses  
+- 🚧 In Progress: *Cybersecurity Terminology*  
 - 🎯 Next Up: *OWASP Top 10 Essentials*  
 
 ---
