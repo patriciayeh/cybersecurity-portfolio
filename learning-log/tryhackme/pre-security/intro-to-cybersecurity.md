@@ -4,7 +4,7 @@ This combined log covers my **introductory offensive and defensive cybersecurity
 
 ---
 
-## Room 1: Defensive Security Introduction
+## ⚒️ Room 1: Defensive Security Introduction
 
 **Room Overview**  
 This room introduces the fundamentals of **defensive cybersecurity** and the role of the **Blue Team** in protecting systems, networks, and data.  
@@ -41,7 +41,7 @@ I learned how organizations **prevent, detect, and respond** to cyber threats th
 
 ---
 
-## Room 2: Offensive Security Introduction
+## ⚔️ Room 2: Offensive Security Introduction
 
 > *"To outsmart a hacker, you need to think like one."*
 
