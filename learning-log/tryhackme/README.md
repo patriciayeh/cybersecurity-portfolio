@@ -7,7 +7,7 @@ I’m building a strong foundation in **offensive security**, **defensive securi
 
 ## 🎓 Learning Paths & Courses
 
-| Learning Path / Course                | Focus Areas                                | Key Skills Gained                                   | Status     |
+| Learning Path                | Focus Areas                                | Key Skills Gained                                   | Status     |
 |--------------------------------------|-------------------------------------------|-----------------------------------------------------|------------|
 | **Pre-Security**                    | Basics of networking, Linux, and web concepts | Linux commands, basic scripting, HTTP, DNS          | 🚧 In Progress |
 | **Cybersecurity 101**   | Networking & cryptography; Windows, Linux & AD basics, offensive & defensive security, cybersecurity careers | Security fundamentals, system & network management, exploitation & defense tools, threat detection & response      | 🎯 Planned |
@@ -16,10 +16,10 @@ I’m building a strong foundation in **offensive security**, **defensive securi
 
 ## 🛠️ Tools & Techniques Learned
 
-**Recon & Enumeration** → Gobuster, Nmap, dirb  
-**Exploitation** → Burp Suite, SQLi basics, XSS testing  
-**Defensive Monitoring** → SIEM dashboards, log correlation  
-**Privilege Escalation** → Linux escalation fundamentals  
+- **Recon & Enumeration** → Gobuster, Nmap, dirb  
+- **Exploitation** → Burp Suite, SQLi basics, XSS testing  
+- **Defensive Monitoring** → SIEM dashboards, log correlation  
+- **Privilege Escalation** → Linux escalation fundamentals  
 
 ---
 
