@@ -10,8 +10,7 @@ This section documents the rooms I’ve completed, tools I’ve used, and skills
 | Room | Skills Practiced | Tools Used | Difficulty |
 |------|------------------|------------|------------|
 | [Offensive Security: First Website Hack](./offensive-security-first-hack.md) | Web hacking basics, directory brute-forcing, hidden page discovery | Gobuster | 🟢 Easy |
-| Intro to Web Hacking | SQLi, XSS, input validation bypass | Burp Suite, cURL | 🟢 Easy |
-| Basic Pentesting | Recon, brute-forcing, privilege escalation | Nmap, Hydra, John | 🟡 Medium |
+| [Defensive Security Intro](./defensive-security-intro.md) | SOC monitoring, threat intelligence, DFIR, malware analysis, SIEM basics | SIEM, Logs, Threat Intel | 🟢 Easy |
 
 ---
 
