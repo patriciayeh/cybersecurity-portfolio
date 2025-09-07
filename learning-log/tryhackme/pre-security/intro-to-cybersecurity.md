@@ -6,9 +6,7 @@ This combined log covers my **introductory offensive and defensive cybersecurity
 
 ## ⚒️ Room 1: Defensive Security Introduction
 
-**Room Overview**  
-This room introduces the fundamentals of **defensive cybersecurity** and the role of the **Blue Team** in protecting systems, networks, and data.  
-I learned how organizations **prevent, detect, and respond** to cyber threats through SOC operations, threat intelligence, digital forensics, incident response, and malware analysis.
+This room introduces the fundamentals of **defensive cybersecurity** and the role of the **Blue Team** in protecting systems, networks, and data. I learned how organizations **prevent, detect, and respond** to cyber threats through SOC operations, threat intelligence, digital forensics, incident response, and malware analysis.
 
 ### 🧠 Skills Practiced
 - **SOC Operations** → Monitoring systems, detecting suspicious activity, and investigating alerts  
