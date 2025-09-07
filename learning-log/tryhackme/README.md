@@ -22,7 +22,7 @@ This section documents the rooms I’ve completed, tools I’ve used, and skills
 
 ---
 
-## 📊 Progress & Next Steps
+## 📊 Progress & Next Steps (Updated 9/7/25)
 - ✅ Completed: 3 rooms  
 - 🚧 In Progress: *Introduction to Defensive Security*  
 - 🎯 Next Up: *OWASP Top 10 Room*  
