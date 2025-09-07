@@ -23,7 +23,7 @@ This section documents the online courses I've completed, summarizing the **skil
 
 ---
 
-## 📊 Progress & Next Steps (Updated September 2025)
+## 📊 Progress & Next Steps (Updated 9/7/25)
 - ✅ Completed: 2 courses  
 - 🚧 In Progress: *Cybersecurity Terminology*  
 - 🎯 Next Up: *OWASP Top 10 Essentials*  
