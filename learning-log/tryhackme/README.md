@@ -1,32 +1,31 @@
 # 🕵️‍♂️ TryHackMe Learning Journey
 
-Welcome to my **TryHackMe** learning log!  
-This section documents the rooms I’ve completed, tools I’ve used, and skills I’ve gained while practicing **offensive and defensive cybersecurity techniques** in safe, simulated environments.
+Welcome to my TryHackMe learning log!  
+I’m building a strong foundation in **offensive security**, **defensive security**, and **ethical hacking** through structured learning paths and hands-on labs.
 
 ---
 
-## 🧩 Completed Rooms
+## 🎓 Learning Paths & Courses
 
-| Room | Skills Practiced | Tools Used | Difficulty |
-|------|------------------|------------|------------|
-| [Offensive Security: First Website Hack](./offensive-security-first-hack.md) | Web hacking basics, directory brute-forcing, hidden page discovery | Gobuster | 🟢 Easy |
-| [Defensive Security Intro](./defensive-security-intro.md) | SOC monitoring, threat intelligence, DFIR, malware analysis, SIEM basics | SIEM, Logs, Threat Intel | 🟢 Easy |
+| Learning Path / Course                | Focus Areas                                | Key Skills Gained                                   | Status     |
+|--------------------------------------|-------------------------------------------|-----------------------------------------------------|------------|
+| **Pre-Security**                    | Basics of networking, Linux, and web concepts | Linux commands, basic scripting, HTTP, DNS          | 🚧 In Progress |
+| **Cybersecurity 101**   | Networking & cryptography; Windows, Linux & AD basics, offensive & defensive security, cybersecurity careers | Security fundamentals, system & network management, exploitation & defense tools, threat detection & response      | 🎯 Planned |
 
 ---
 
 ## 🛠️ Tools & Techniques Learned
-- **Reconnaissance:** Gobuster, Nmap, dirb
-- **Exploitation:** Burp Suite, SQLi basics, XSS testing
-- **Privilege Escalation:** Linux privilege escalation fundamentals
-- **Web Hacking:** Directory enumeration, hidden endpoints, weak admin portals
+
+**Recon & Enumeration** → Gobuster, Nmap, dirb  
+**Exploitation** → Burp Suite, SQLi basics, XSS testing  
+**Defensive Monitoring** → SIEM dashboards, log correlation  
+**Privilege Escalation** → Linux escalation fundamentals  
 
 ---
 
-## 📊 Progress & Next Steps (Updated 9/7/25)
-- ✅ Completed: 3 rooms  
-- 🚧 In Progress: *Introduction to Defensive Security*  
-- 🎯 Next Up: *OWASP Top 10 Room*  
+## 📊 Progress & Next Steps *(Updated 09/07/25)*
 
----
-
-> 💡 **Goal:** Build a strong foundation in **offensive security**, **web exploitation**, and **ethical hacking** through guided, hands-on practice.
+- ✅ Completed: **TBD**  
+- 🚧 In Progress: **Pre-Security**  
+- 🎯 Next Up: **Cybersecurity 101**  
+- 🏁 Goal: Build a balanced skill set across **red team**, **blue team**, and **purple team** practices.
