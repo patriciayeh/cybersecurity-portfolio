@@ -10,9 +10,7 @@ This combined log covers my **introductory offensive and defensive cybersecurity
 This room introduces the fundamentals of **defensive cybersecurity** and the role of the **Blue Team** in protecting systems, networks, and data.  
 I learned how organizations **prevent, detect, and respond** to cyber threats through SOC operations, threat intelligence, digital forensics, incident response, and malware analysis.
 
----
-
-## 🧠 Skills Practiced
+### 🧠 Skills Practiced
 - **SOC Operations** → Monitoring systems, detecting suspicious activity, and investigating alerts  
 - **Threat Intelligence** → Identifying adversaries, predicting attacks, and preparing defenses  
 - **DFIR (Digital Forensics & Incident Response)** →  
@@ -22,17 +20,13 @@ I learned how organizations **prevent, detect, and respond** to cyber threats th
 - **Malware Analysis** → Understanding malware behavior through static and dynamic analysis  
 - **SIEM Basics** → Hands-on investigation of security alerts using simulated environments
 
----
-
-## 🛠️ Tools & Concepts Used
+### 🛠️ Tools & Concepts Used
 - **SIEM** – Security Information and Event Management  
 - **Threat Intelligence Feeds** – Understanding attacker tactics & techniques  
 - **Logs & Monitoring** – Reviewing authentication attempts, IP activity, and network intrusions  
 - **Digital Forensics** – Disk, memory, and log analysis
 
----
-
-## 📌 Key Takeaways
+### 📌 Key Takeaways
 - Defensive security focuses on **protecting** systems rather than exploiting them.
 - The **SOC** is the frontline team that monitors and responds to potential threats.
 - **Threat intelligence** helps anticipate attacks and strengthen defenses.
@@ -47,15 +41,11 @@ I learned how organizations **prevent, detect, and respond** to cyber threats th
 
 This TryHackMe room introduces **Offensive Security** by teaching you to **hack a simulated bank application (FakeBank)** in a safe, legal environment. The goal is to understand hacker tactics to improve system defenses.
 
----
-
 ### 🔹 What I Learned
 - How attackers exploit vulnerabilities and find hidden endpoints
 - Using **Gobuster** to brute-force website directories and pages
 - Identifying unsecured admin portals and sensitive data
 - Practicing **ethical hacking** to report vulnerabilities responsibly
-
----
 
 ### 🛠️ Hands-On Practice
 **Objective:** Discover hidden pages and exploit a vulnerability to transfer `$2000` from account `2276` to `8881`.
