@@ -1,4 +1,4 @@
-# 🛡️ TryHackMe – Defensive Security Intro
+## 🛡️ TryHackMe – Defensive Security Intro
 
 **Room Overview**  
 This room introduces the fundamentals of **defensive cybersecurity** and the role of the **Blue Team** in protecting systems, networks, and data.  
